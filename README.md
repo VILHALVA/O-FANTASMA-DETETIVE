@@ -27,4 +27,3 @@ Aqui estão as principais mecânicas e objetivos do jogo:
 ## CREDITOS:
 - [PROJETO CRIADO PELO "proxygo"](https://github.com/proxygo/O-fantasma-Detetive)
 - [PROJETO EDITADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
